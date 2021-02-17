@@ -1,0 +1,39 @@
+.title{ 
+    margin-bottom: 10px; 
+    text-align:center; 
+    width: 100vw;
+    height: 100vh; 
+    color:black(164, 182, 164);  
+    } 
+
+    p{
+       font-size: 4rem;
+    }
+
+    input[type="button"] 
+    { 
+    background-color:rgb(164, 182, 164); 
+    color: black; 
+    border: solid black 2px; 
+    width:100%; 
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    } 
+
+    input[type="text"] 
+    { 
+    background-color:white; 
+    border: solid black 2px; 
+    width:97%;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    } 
+
+    table {
+    table-layout: fixed ;
+    width: 40% ;
+    }
+   
+    
+
+
